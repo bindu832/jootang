@@ -65,7 +65,7 @@ Outputs:
 A graph  
 
 ## Dependencies: 
-matplotlib, numpy, pandas
+`matplotlib`, `numpy`, `pandas`
 
 
 Note: 
